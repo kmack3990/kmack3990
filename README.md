@@ -17,8 +17,8 @@ In this quest for sustainable results, I continue to build on my skills to wrang
 Here are some ideas to get you started:
 
 * :computer: I am looking to work in the Denver, CO or remotely 
-* 🔭 I’m currently working on WiDS Datathon Challenge
-* 🧠 I learning everything data science/analytics
+* 🔭 Currently, I am working on the WiDS Datathon Challenge
+* 🧠 I am also learning everything data science/analytics
 * :sunrise_over_mountains:	 I love to be outside with friends and family hiking, biking, or skiing
 
 ### Skills
