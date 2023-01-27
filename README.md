@@ -14,7 +14,6 @@ In this quest for sustainable results, I continue to build on my skills to wrang
 • Fluency in coding languages, such as SQL, Python and Bash
 • Construction of data visualizations and dashboards using Tableau and Matplotlib, Plotly, and Bokeh
 • Modeling and machine learning with Statsmodels, Scikit-learn, and TensorFlow
-Here are some ideas to get you started:
 
 * :computer: I am looking to work in the Denver, CO or remotely 
 * 🔭 Currently, I am working on the WiDS Datathon Challenge
