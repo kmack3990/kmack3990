@@ -15,10 +15,10 @@ In this quest for sustainable results, I continue to build on my skills to wrang
 • Construction of data visualizations and dashboards using Tableau and Matplotlib, Plotly, and Bokeh
 • Modeling and machine learning with Statsmodels, Scikit-learn, and TensorFlow
 
-* :computer: I am looking to work in the Denver, CO or remotely 
-* 🔭 Currently, I am working on the WiDS Datathon Challenge
-* 🧠 I am also learning everything data science/analytics
-* :sunrise_over_mountains:	 I love to be outside with friends and family hiking, biking, or skiing
+* :computer: I am looking to work in the Denver, CO or remotely. 
+* 🔭 Currently, I am working on the WiDS Datathon Challenge.
+* 🧠 I am also learning everything data science/analytics.
+* :sunrise_over_mountains:	 I love to be outside with friends and family hiking, biking, or skiing.
 
 ### Skills
 
