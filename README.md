@@ -2,7 +2,7 @@ Hello, My Name is Kiley Mack
 =====================================================================================
 
 
-Science Educator/Leader turned Data Scientist/Analyst - Python, SQL, Tableau, Machine Learning 
+Science Educator/Leader/Researcher turned Data Scientist/Analyst - Python, SQL, Tableau, Machine Learning 
 -------------------------------------------------------------------------------------
 
 Since being introduced to coding by some students in my STEM Club in 2018, coding with Python and its libraries has a been a hobby of mine.  In 2022, I decided to make this hobby a career path.  In December 2022, I graduated from BrainStation with a Diploma in Data Science.  
