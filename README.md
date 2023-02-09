@@ -9,11 +9,10 @@ Since being introduced to coding by some students in my STEM Club in 2018, codin
 
 As a science educator, researcher, and leader, I have observed how important it is to have the proper tools and processes to analyze data and make sound conclusions. I am invigorated by my knowledge of modern data science methods and look forward to leveraging them to make intelligent decisions that lead to sustainable results. 
 
-In this quest for sustainable results, I continue to build on my skills to wrangle, analyze, model, and present the data that is ever evolving in today's industries. Some of this growing expertise includes:
+In this quest for sustainable results, I continue to build on my skills to wrangle, analyze, model, and present the data that is ever evolving in today's industries. Some of this growing expertise includes:  • Fluency in coding languages, such as SQL, Python and Bash  • Construction of data visualizations and dashboards using Tableau and Matplotlib, Plotly, and Bokeh • Modeling and machine learning with Statsmodels, Scikit-learn, and TensorFlow
 
-• Fluency in coding languages, such as SQL, Python and Bash
-• Construction of data visualizations and dashboards using Tableau and Matplotlib, Plotly, and Bokeh
-• Modeling and machine learning with Statsmodels, Scikit-learn, and TensorFlow
+See my repositories to view some of the projects that I have been working on.
+
 
 * :computer: I am looking to work in the Denver, CO or remotely. 
 * 🔭 Currently, I am working on the WiDS Datathon Challenge.
