@@ -21,10 +21,15 @@ In pursuit of sustainable, data-driven solutions, I continue to expand my skills
 
 ### Interests
 
-* :computer: I want to continue to work in the Denver, CO or remotely. 
-* 🔭 Currently, I am really enjoying my work with CPD at the City of Denver. 
+* 💻 I want to continue to work in the Denver, CO or remotely. 
+* 🔭 I currently enjoy my work with CPD at the City of Denver. 
 * 🧠 I am always trying to learn everything data science/analytics.
-* :sunrise_over_mountains:	 I love to be outside with friends and family hiking, biking, or skiing.
+* 🌄 I love to be outside with friends and family hiking, biking, or skiing.
+
+* 💻 Open to roles in Denver, CO or remote  
+* 🔭 Currently working with Community Planning & Development at the City of Denver  
+* 🧠 Continuously expanding my data science and analytics skills  
+* 🌄 Enjoy hiking, biking, and skiing with friends and family
 
 ### Skills
 
