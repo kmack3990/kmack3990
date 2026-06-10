@@ -22,7 +22,7 @@ In pursuit of sustainable, data-driven solutions, I continue to expand my skills
 
 * :computer: I want to continue to work in the Denver, CO or remotely. 
 * 🔭 Currently, I am working with CPD at the City of Denver. 
-* 🧠 I am alwsay trying to learn everything data science/analytics.
+* 🧠 I am always trying to learn everything data science/analytics.
 * :sunrise_over_mountains:	 I love to be outside with friends and family hiking, biking, or skiing.
 
 ### Skills
