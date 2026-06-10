@@ -19,6 +19,7 @@ In pursuit of sustainable, data-driven solutions, I continue to expand my skills
 
 • Data engineering and data pipeline development using Snowflake, along with web scraping and data acquisition using Beautiful Soup and Scrapy
 
+### Interests
 
 * :computer: I want to continue to work in the Denver, CO or remotely. 
 * 🔭 Currently, I am working with CPD at the City of Denver. 
