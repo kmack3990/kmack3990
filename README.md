@@ -2,16 +2,22 @@ Hello, My Name is Kiley Mack
 =====================================================================================
 
 
-Science Educator/Leader/Researcher turned Data Scientist/Analyst - Python, SQL, Tableau, Machine Learning 
+Data Scientist/Analyst with roots in Science Education/Leadership/Research - Python, SQL, Power Bi, Machine Learning 
 -------------------------------------------------------------------------------------
 
-Since being introduced to coding by some students in my STEM Club in 2018, coding with Python and its libraries has a been a hobby of mine.  In 2022, I decided to make this hobby a career path.  In December 2022, I graduated from BrainStation with a Diploma in Data Science.  
+Since being introduced to computer programming by some of my AP Physics students in 2015, coding with Python and its libraries has been a hobby of mine. In 2022, I decided to turn that hobby into a career path, and in December 2022, I graduated from BrainStation with a Diploma in Data Science.
 
-As a science educator, researcher, and leader, I have observed how important it is to have the proper tools and processes to analyze data and make sound conclusions. I am invigorated by my knowledge of modern data science methods and look forward to leveraging them to make intelligent decisions that lead to sustainable results. 
+Since earning my Diploma, I have worked as a Data Analytics Senior for Community Planning and Development with the City of Denver. In this role, I continue to be inspired by the ever-evolving capabilities of modern data analytics and data science, contributing to projects across the entire data lifecycle, from data engineering to data science.
 
-In this quest for sustainable results, I continue to build on my skills to wrangle, analyze, model, and present the data that is ever evolving in today's industries. Some of this growing expertise includes:  • Fluency in coding languages, such as SQL, Python and Bash  • Construction of data visualizations and dashboards using Tableau and Matplotlib, Plotly, and Bokeh • Modeling and machine learning with Statsmodels, Scikit-learn, and TensorFlow
+In pursuit of sustainable, data-driven solutions, I continue to expand my skills in collecting, wrangling, analyzing, modeling, and communicating data using an ever-growing set of tools and technologies. Some of this expertise includes:
 
-See my repositories to view some of the projects that I have been working on.
+• Fluency in programming and query languages, including SQL, Python, DAX, and Power Query (M)
+
+• Building data visualizations and interactive dashboards using Tableau, Power BI, Matplotlib, and Plotly
+
+• Statistical modeling and machine learning with Statsmodels, Scikit-learn, and TensorFlow
+
+• Data engineering and data pipeline development using Snowflake, along with web scraping and data acquisition using Beautiful Soup and Scrapy
 
 
 * :computer: I am looking to work in the Denver, CO or remotely. 
