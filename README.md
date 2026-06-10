@@ -26,11 +26,6 @@ In pursuit of sustainable, data-driven solutions, I continue to expand my skills
 * 🧠 I am always trying to learn everything data science/analytics.
 * 🌄 I love to be outside with friends and family hiking, biking, or skiing.
 
-* 💻 Open to roles in Denver, CO or remote  
-* 🔭 Currently working with Community Planning & Development at the City of Denver  
-* 🧠 Continuously expanding my data science and analytics skills  
-* 🌄 Enjoy hiking, biking, and skiing with friends and family
-
 ### Skills
 
 <p align="left">
