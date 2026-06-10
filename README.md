@@ -1,9 +1,4 @@
 Hello, My Name is Kiley Mack
-=====================================================================================
-
-
-Data Scientist/Analyst with roots in Science Education/Leadership/Research - Python, SQL, Power Bi, Machine Learning 
--------------------------------------------------------------------------------------
 
 Since being introduced to computer programming by some of my AP Physics students in 2015, coding with Python and its libraries has been a hobby of mine. In 2022, I decided to turn that hobby into a career path, and in December 2022, I graduated from BrainStation with a Diploma in Data Science.
 
