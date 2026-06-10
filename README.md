@@ -20,9 +20,9 @@ In pursuit of sustainable, data-driven solutions, I continue to expand my skills
 • Data engineering and data pipeline development using Snowflake, along with web scraping and data acquisition using Beautiful Soup and Scrapy
 
 
-* :computer: I am looking to work in the Denver, CO or remotely. 
-* 🔭 Currently, I am working on the WiDS Datathon Challenge.
-* 🧠 I am also learning everything data science/analytics.
+* :computer: I want to continue to work in the Denver, CO or remotely. 
+* 🔭 Currently, I am working with CPD at the City of Denver. 
+* 🧠 I am alwsay trying to learn everything data science/analytics.
 * :sunrise_over_mountains:	 I love to be outside with friends and family hiking, biking, or skiing.
 
 ### Skills
